@@ -17,13 +17,13 @@ In situ spatial genomics is of great interest to the synthetic biology community
 <img vspace="10" hspace="10" align="left" width="200" height="200" src="/images/tfu.png">
 Fluorescent In Situ Sequencing consists of multiple highly challenging and sensitive molecular biology protocols. Small human errors can many times lead to unexpected results, noise and even complete failures. In order to obviate such issues, the group sought out to develop a programmable Thermal and Fluidic Cycler to automate not only FISSEQ but a large variety of molecular biology experiments in general. I was primarily involved in designing the initial architecture of the device, communication protocol between the Central and peripheral units and most importantly the ‘Thermal’ part of the ThermoFluidic Cycler.
 
-[Slides](/docs/tfu.pdf)
+[Slides](/docs/tfu.pdf) |
 
 ### Binding Site Analysis of an Acyl CoA Binding Protein
 <img vspace="10" hspace="10" align="left" width="200" height="200" src="/images/cdfd.png">
 As an [Indian Academy of Science Summer Research Fellow](), I worked at the [Computational and Functional Genomics lab]() at [Centre for DNA Fingerprinting and Diagnostics](). During the 2 months of the internship, I piloted a small study to gain insights into the ligand binding mechanics of a *Plasmodium Falciparum* protein, ACBP16. ACBP16 is a key metabolic regulator, small molecules disrupting its ligand binding function can adversely affect the parasite and can hence be key drug candidates for malaria. My project was aimed at investigating molecular interactions involved in the ligand binding function, with an overarching objective to guide a more directed approach towards drug development in the future.
 
-[Report](/docs/report_CDFD.pdf)
+[Report](/docs/report_CDFD.pdf) |
 
 ### A Novel Plug n Play MEMS-Based DNA Microarray
 <img vspace="10" hspace="10" align="left" width="200" height="200" src="/images/MEMS.png">
