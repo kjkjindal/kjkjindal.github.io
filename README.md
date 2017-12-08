@@ -15,6 +15,7 @@ In situ spatial genomics is of great interest to the synthetic biology community
 
 [Read about the original *de novo* RNA FISSEQ Method](https://en.wikipedia.org/wiki/Fluorescent_in_situ_sequencing)
 
+
 ### A Programmable ThermoFluidic Cycler for Automated FISSEQ
 <img vspace="10" hspace="10" align="left" width="200" height="200" src="/images/tfu.png">
 Fluorescent In Situ Sequencing consists of multiple highly challenging and sensitive molecular biology protocols. Small human errors can many times lead to unexpected results, noise and even complete failures. In order to obviate such issues, the group sought out to develop a programmable Thermal and Fluidic Cycler to automate not only FISSEQ but a large variety of molecular biology experiments in general. I was primarily involved in designing the initial architecture of the device, communication protocol between the Central and peripheral units and most importantly the ‘Thermal’ part of the ThermoFluidic Cycler.
@@ -39,11 +40,13 @@ Biosensors are interesting tools of measurement used for sensing (mostly) biolog
 
 [Slides](/docs/pdf_biomod.pdf) | [Wiki](https://nanocraftersbits.github.io/) | [Video](https://www.youtube.com/watch?v=tsI8-NE1HYg)
 
-
+    
+        
+        
 ### Modular Microbial Fuel Cell based photosynthetic bioelectric wall panels
 <img vspace="10" hspace="10" align="left" width="260" height="200" src="/images/mfc.png">
 Microbial Fuel Cells (MFCs) are potential sources of clean energy. A typical MFC is a bioreactor that uses microbes to convert biomass containing organic compounds such as glucose, fructose etc. directly to electrical energy. Here, we investigated the possibility of building wall panels, based on the basic concepts of MFCs that use the synergistic relationship between photosynthetic and heterotrophic microbes to produce electricity from light. These panels will not only help in electricity generation but also, if their use becomes widespread, will help in reducing the atmospheric carbon dioxide (as it is used by microbes for photosynthesis). The project was presented at APOGEE, our university’s annual technical symposium and was awarded second prize.
 
-[Paper](/docs/paper_mfc.pdf)
+[Paper](/docs/paper_mfc.pdf) |
 
 
