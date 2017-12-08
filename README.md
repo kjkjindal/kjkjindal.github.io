@@ -17,7 +17,7 @@ In situ spatial genomics is of great interest to the synthetic biology community
 
 
 ### A Programmable ThermoFluidic Cycler for Automated FISSEQ
-<img vspace="10" hspace="10" align="left" width="200" height="200" src="/images/tfu.png">
+<img vspace="10" hspace="10" align="left" width="180" height="180" src="/images/tfu.png">
 Fluorescent In Situ Sequencing consists of multiple highly challenging and sensitive molecular biology protocols. Small human errors can many times lead to unexpected results, noise and even complete failures. In order to obviate such issues, the group sought out to develop a programmable Thermal and Fluidic Cycler to automate not only FISSEQ but a large variety of molecular biology experiments in general. I was primarily involved in designing the initial architecture of the device, communication protocol between the Central and peripheral units and most importantly the ‘Thermal’ part of the ThermoFluidic Cycler.
 
 [Slides](/docs/tfu.pdf) |
@@ -35,7 +35,7 @@ Microarrays are important genomics tools used for a variety of purposes in moder
 [Slides](/docs/pdf_mems.pdf) | [Poster](/docs/poster_mems.pdf)
 
 ### Universal Biosensor Design
-<img vspace="10" hspace="10" align="left" width="280" height="200" src="/images/image39.gif">
+<img vspace="10" hspace="10" align="left" width="260" height="185" src="/images/image39.gif">
 Biosensors are interesting tools of measurement used for sensing (mostly) biological and chemical signals. We sought out to develop a modular pipeline that can be easily modified to create a wide variety of biosensors for a wide range of applications. The project was presented at Harvard’s annual biomolecular design competition, BIOMOD in 2015. Out team NanoCrafters, led by me, was placed in the silver category at the competition. 
 
 [Slides](/docs/pdf_biomod.pdf) | [Wiki](https://nanocraftersbits.github.io/) | [Video](https://www.youtube.com/watch?v=tsI8-NE1HYg)
