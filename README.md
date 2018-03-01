@@ -11,7 +11,10 @@ Synthetic biology is a highly exciting field of bioengineering propelled by the 
 ### Developing Generative Machine Learning Models for Biological Data
 <img vspace="10" hspace="10" align="left" width="200" height="133" src="/images/giphy.gif">
 
-More on this soon!!
+                                                                                                                                                                                                                                                                                                                                                                More on this soon!!
+
+
+
 
 ### Towards multiplexed detection of transcripts and proteins using targeted in situ sequencing
 <img vspace="10" hspace="10" align="left" width="200" height="200" src="/images/fisseq.png">
