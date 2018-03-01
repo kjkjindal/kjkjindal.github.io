@@ -9,7 +9,7 @@ Synthetic biology is a highly exciting field of bioengineering propelled by the 
 
 ## Research Projects
 ### Developing Generative Machine Learning models for biological data
-<img vspace="10" hspace="10" align="left" width="133" height="200" src="/images/giphy.gif">
+<img vspace="10" hspace="10" align="left" width="200" height="133" src="/images/giphy.gif">
 
 In situ spatial genomics is of great interest to the synthetic biology community. It would not only help understand inter and intra cellular distribution of biomolecules such as RNA and proteins but would also open doors for in situ phenotypic screens. My project at the Church lab dealt with developing a method for targeted in situ sequencing for short and long RNA transcripts and proteins. I was primarily involved in developing the library preparation protocol for RNA transcripts and DNA barcoded protein binders and piloted development of a new scalable DNA – Antibody conjugation method.
 
