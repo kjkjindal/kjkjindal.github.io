@@ -4,7 +4,7 @@ Synthetic biology is a highly exciting field of bioengineering propelled by the 
 
 [Curriculum Vitae](/docs/cv_2017.pdf) | Email: <kjkjindal@gmail.com> | [Github](https://github.com/kjkjindal/) | [LinkedIn](https://www.linkedin.com/in/kjindal24/) | [Facebook](https://www.facebook.com/kunal.jindal.33)
 
-[Click here for some cool articles on deep learning research in Biology](https://github.com/kjkjindal/awesome-deepbio)
+[Click here for some cool articles on deep learning research in Biology](https://github.com/gokceneraslan/awesome-deepbio)
 
 
 ## Research Projects
