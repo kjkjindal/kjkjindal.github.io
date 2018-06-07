@@ -9,7 +9,7 @@ Synthetic biology is a highly exciting field of bioengineering propelled by the 
 
 ## Research Projects
 ### Developing Generative Machine Learning Models for Biological Data
-<img vspace="10" hspace="10" align="left" width="200" height="133" src="/images/giphy.gif">
+<img vspace="10" hspace="10" align="left" width="200" height="200" src="/images/giphy.gif">
 Developing generative models to produce biologically relevant "omic" data and help enable better genomics research. <br/>
 .<br/>
 .<br/>
